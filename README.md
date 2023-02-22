@@ -7,6 +7,8 @@ Dependencies (Uses paru to install change if you need)
 
 paru -R xdg-desktop-portal-wlr
 
+
+
 # Themes and stuff
 
 Gtk theme:
