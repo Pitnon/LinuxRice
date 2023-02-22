@@ -11,17 +11,24 @@ paru -R xdg-desktop-portal-wlr
 
 Gtk theme:
 git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+
 cd Tokyo-Night-GTK-Theme/
+
 sudo cp -r themes/Tokyonight-Dark-BL-LB /usr/share/themes/
 
 Icons:
 git clone https://github.com/Fausto-Korpsvart/Tokyo-Night-GTK-Theme.git
+
 cd Tokyo-Night-GTK-Theme/
+
 sudo cp -r icons/Tokyonight-Moon /usr/share/icons/
 
 Cursors:
+
 git clone https://github.com/EliverLara/Sweet.git -b nova
+
 cd Sweet/
+
 sudo cp -r kde/cursors/Sweet-cursors /usr/share/icons/
 
 # DotFiles
