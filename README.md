@@ -83,7 +83,7 @@
     sudo cp -r kde/cursors/Sweet-cursors /usr/share/icons/
     ```
 
-
+</details>
 
 <details>
 <summary><h3>Dotfiles</h3></summary>
