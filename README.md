@@ -109,7 +109,7 @@ chmod +x ~/.config/hypr/autostart
 #### Vscode
 - Theme :: [<kbd>Sweet Dracula</kbd>](https://marketplace.visualstudio.com/items?itemName=PROxZIMA.sweetdracula)
 - Extension :: [<kbd>Fix VSCode Checksums</kbd>](https://marketplace.visualstudio.com/items?itemName=lehni.vscode-fix-checksums)
-- [<kbd>.dotfiles/.config/Code/User/vsc.css</kbd>](.config/Code/User/vsc.css) is a special CSS file that I use to modify vscode's UI (Vscode's core file is edited so follow the steps with care).
+- [<kbd>LinuxRice/.config/Code/User/vsc.css</kbd>](.config/Code/User/vsc.css) is a special CSS file that I use to modify vscode's UI (Vscode's core file is edited so follow the steps with care).
     ```sh
     $ # Replace [code|codium|vscodium-bin] with appropriate folder name.
     $ resPrefix=/usr/share/[code|codium|vscodium-bin]/resources/app/out/vs/code/electron-[browser|sandbox]/workbench
@@ -138,7 +138,7 @@ Use the following command to convert your <kbd>CSS</kbd> file to <kbd>Customize 
 #### Neovim ❤️
 - Setup :: [<kbd>NvChad</kbd>](https://github.com/NvChad/NvChad)
 - GUI :: [<kbd>Neovide</kbd>](https://github.com/neovide/neovide)
-- Configs :: [<kbd>.dotfiles/.config/nvim</kbd>](.config/nvim/)
+- Configs :: [<kbd>LinuxRice/.config/nvim</kbd>](.config/nvim/)
 
 </details>
 
