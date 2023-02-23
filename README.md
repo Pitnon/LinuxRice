@@ -1,6 +1,6 @@
 
 ```mint
-⠀⠀   Setup / Hyprland 
+⠀⠀   Setup / Hyprland
  -----------------------------------
 
  ╭─ Distro  -> Archlinux x86_64
@@ -20,7 +20,7 @@
  ├─ Icons    -> Tokyonight-Moon
  ╰─ Font     -> CaskaydiaCove Nerd Font
 
-        
+      
 ```
 
 ---
@@ -89,11 +89,12 @@
 <summary><h3>Dotfiles</h3></summary>
 
 ```sh
-git clone https://github.com/Pitnon/LinuxRice.git 
+git clone https://github.com/Pitnon/LinuxRice.git
 cd LinuxRice
 cp -r .config .icons .local .mpd .ncmpcpp .scripts ~/
 cp .face .fonts.conf .dmrc .gtkrc-2.0 ~/
 chmod -R +x ~/.scripts/
+sudo chmod +x ~/LinuxRice/.config/hypr/
 chmod +x ~/.config/hypr/autostart
 ```
 
