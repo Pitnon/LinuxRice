@@ -20,7 +20,7 @@
  ├─ Icons    -> Tokyonight-Moon
  ╰─ Font     -> CaskaydiaCove Nerd Font
 
-      
+  
 ```
 
 ---
