@@ -20,4 +20,4 @@ export PATH=$PATH:~/my-scripts
 # Set the Starship prompt
 eval "$(starship init zsh)"
 
-export PATH=$PATH:/home/brady/.spicetify
+export PATH=$PATH: ~/.spicetify
